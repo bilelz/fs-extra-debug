@@ -1,0 +1,27 @@
+{
+  "name": "fs-extra-debug",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "graceful-fs": "^4.2.9",
+    "jsonfile": "^6.1.0",
+    "universalify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilelz/fs-extra-debug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilelz/fs-extra-debug/issues"
+  },
+  "homepage": "https://github.com/bilelz/fs-extra-debug#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.1"
+  }
+}
